@@ -35,6 +35,7 @@ public class week5 {
 
 
         Bendoy.display();
+        Miranda.display();
 
 	Villaos.display();
 
@@ -90,5 +91,8 @@ public class week5 {
 
     }
 }
+
+
+
 
 
