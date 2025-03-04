@@ -48,7 +48,8 @@ public class week5 {
 
 
 	Mata.display();
-
+        AgpoonGregpsalms.display();
+        AgpoonGregsamuel.display();
 
 
 
