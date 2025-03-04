@@ -14,6 +14,12 @@ public class Week5 {
         Artiaga.display();
         Balais.display();
         Bendoy.display();
+
+        Eugenio.display();
+
+
+
+
         Berte.display();
         Credo.display();
         DeJesus.display();
@@ -37,6 +43,7 @@ public class Week5 {
         Villaos.display();
 
     
+
 
     }
 }
