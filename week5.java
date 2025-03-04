@@ -29,7 +29,7 @@ public class week5 {
        
         Serrano.display();
 
-
+	
         Panis.display(); 
         Tabon.display();
         Artiaga.display();
@@ -41,7 +41,7 @@ public class week5 {
         Miranda.display();
 
 
-
+	Mata.display();
 
 
 
