@@ -8,6 +8,7 @@ public class week5 {
 
 
         // More students will add their method calls here...
+        Pascualado.display();
         Pajanustan.display();
 
 
@@ -22,7 +23,6 @@ public class week5 {
         Balais.display();
 
         Bendoy.display();
-
 
 
 
