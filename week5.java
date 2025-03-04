@@ -35,6 +35,8 @@ public class week5 {
 
         Bendoy.display();
 
+	Villaos.display();
+
 
 
 
