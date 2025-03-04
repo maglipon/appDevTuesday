@@ -12,7 +12,7 @@ public class week5 {
         Saulong.display();
         pianar.display();
 
-
+        dizon.display();
 
         Amar.display();
 
