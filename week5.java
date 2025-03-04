@@ -151,6 +151,10 @@ public class week5 {
           Talidong.display(); // Add your method call here
 
 
+
+ 	Credo.display();
+
+
         // More students will add their method calls here...
         Saulong.display();
         pianar.display();
@@ -237,6 +241,7 @@ public class week5 {
 
 
 	    Lamac.display();
+
 
 
       
