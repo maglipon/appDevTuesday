@@ -8,6 +8,10 @@ public class week5 {
 
         // Call each student's method
 
+        // More students will add their method calls here...
+        pianar.display();
+
+
 
         Amar.display();
 
@@ -30,6 +34,7 @@ public class week5 {
 
 
         Bendoy.display();
+
 
 
 
