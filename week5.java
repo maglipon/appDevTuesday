@@ -92,8 +92,13 @@ public class week5 {
 	    
         Regoroso.display();
 
+
+	    Lamac.display();
+
+
       
         alabado.display();
+
 
 
         // Call each student's method
@@ -230,3 +235,4 @@ public class week5 {
 
     }
 }
+
