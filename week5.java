@@ -85,10 +85,13 @@ public class week5 {
 
 	Mata.display();
 
+	    Lamac.display();
+
 
 
 
     }
 }
+
 
 
