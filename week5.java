@@ -139,8 +139,8 @@ public class week5 {
 
 
 	Mata.display();
-
-
+        dizon.display();
+        
 	Mangui.display();
 
     }
