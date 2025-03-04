@@ -2,6 +2,9 @@ public class Week5 {
     public static void main(String[] args) {
         System.out.println("Collaborative Java Project\n");
 
+
+        Tapia.display();
+
         // Call each student's method in alphabetical order
         AgpoonGregpsalms.display();
         AgpoonGregsamuel.display();
@@ -31,5 +34,6 @@ public class Week5 {
         Tabon.display();
         Talidong.display();
         Villaos.display();
+
     }
 }
