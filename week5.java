@@ -10,6 +10,7 @@ public class week5 {
         // Call each student's method
 
         // More students will add their method calls here...
+        Saulong.display();
         pianar.display();
 
 
