@@ -18,6 +18,7 @@ public class Week5 {
         Dizon.display();
         Echon.display();
         Lamac.display();
+        Mago.display();
         Mangui.display();
         Mata.display();
         Miranda.display();
