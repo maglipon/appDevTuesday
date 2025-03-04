@@ -143,6 +143,7 @@ public class week5 {
         dizon.display();
         
 	Mangui.display();
+	DeJesus.display();
 
     }
 }
