@@ -17,6 +17,7 @@ public class Week5 {
         Dichoso.display();
         Dizon.display();
         Echon.display();
+        Garcia.display();
         Lamac.display();
         Mangui.display();
         Mata.display();
@@ -31,5 +32,6 @@ public class Week5 {
         Tabon.display();
         Talidong.display();
         Villaos.display();
+    
     }
 }
