@@ -38,6 +38,7 @@ public class week5 {
 
 
         Bendoy.display();
+        Miranda.display();
 
 
 
