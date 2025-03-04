@@ -5,7 +5,10 @@ public class week5 {
        
         // Call each student's method
         // More students will add their method calls here...
-        //lastname.display();
+       Debuton.display();
+
+
+
         Regoroso.display();
 
       
@@ -145,22 +148,7 @@ public class week5 {
 	Mangui.display();
 	DeJesus.display();
 
-    }
-}
-
-
-
-
-
-
-
-public class week5 {
-    public static void main(String[] args) {
-        System.out.println("Collaborative Java Project\n");
-
-        // Call each student's method
-
-        Talidong.display(); // Add your method call here
+          Talidong.display(); // Add your method call here
 
 
         // More students will add their method calls here...
