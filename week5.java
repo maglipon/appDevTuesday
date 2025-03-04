@@ -8,6 +8,10 @@ public class week5 {
 
         // Call each student's method
 
+        
+        Dichoso.display();
+
+
         // More students will add their method calls here...
         pianar.display();
 
