@@ -4,6 +4,10 @@ public class week5 {
 
         // Call each student's method
 
+        // More students will add their method calls here...
+        Pajanustan.display();
+
+
        
         Serrano.display();
 
@@ -13,6 +17,7 @@ public class week5 {
         Artiaga.display();
 
         Balais.display();
+
 
 
 
