@@ -28,6 +28,7 @@ public class Week5 {
         Echon.display();
         Garcia.display();
         Lamac.display();
+        Mago.display();
         Mangui.display();
         Mata.display();
         Miranda.display();
