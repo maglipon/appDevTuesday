@@ -94,6 +94,8 @@ public class week5 {
 
 	Mangui.display();
 
+ 	Credo.display();
+
     }
 }
 
