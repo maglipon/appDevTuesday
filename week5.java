@@ -86,7 +86,7 @@ public class week5 {
 	Mata.display();
 
 
-
+	Mangui.display();
 
     }
 }
