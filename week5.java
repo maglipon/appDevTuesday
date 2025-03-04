@@ -31,7 +31,7 @@ public class week5 {
         Panis.display(); 
         Tabon.display();
         Artiaga.display();
-
+        Berte.display();
         Balais.display();
      
         Arevalo.display();
@@ -90,9 +90,10 @@ public class week5 {
 
 
 	Mata.display();
+	    
 
 
-	Mangui.display();
+
 
     }
 }
