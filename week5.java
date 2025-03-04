@@ -11,6 +11,10 @@ public class week5 {
         Artiaga.display();
 
         Balais.display();
+     
+        Arevalo.display();
+        
+      
 
 
     }
