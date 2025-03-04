@@ -4,11 +4,16 @@ public class week5 {
 
         // Call each student's method
 
+       
+        Serrano.display();
+
+
         Panis.display(); 
         Tabon.display();
         Artiaga.display();
 
         Balais.display();
+
 
 
 
