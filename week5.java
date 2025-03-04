@@ -4,13 +4,12 @@ public class week5 {
 
         // Call each student's method
 
-        Panis.display(); // Add your method call here
-
-        // More students will add their method calls here...
-
+        Panis.display(); 
+        Tabon.display();
         Artiaga.display();
 
         Balais.display();
+
 
 
     }
