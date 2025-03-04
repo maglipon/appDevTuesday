@@ -4,6 +4,9 @@ public class week5 {
 
         // Call each student's method
 
+        ECHON.display(); // Add your method call here
+
+
         // More students will add their method calls here...
         Pajanustan.display();
 
@@ -17,6 +20,7 @@ public class week5 {
         Artiaga.display();
 
         Balais.display();
+
 
 
 
