@@ -48,7 +48,7 @@ public class week5 {
         Tabon.display();
         Talidong.display();
         Villaos.display();
-
+        Tado.display();
     
         Delig.display();
         Regoroso.display();
