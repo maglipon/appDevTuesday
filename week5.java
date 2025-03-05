@@ -54,6 +54,8 @@ public class week5 {
         Tabon.display();
         Talidong.display();
         Villaos.display();
+        Ringor.display();
+        
 
     
 
