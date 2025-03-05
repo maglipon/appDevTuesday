@@ -16,7 +16,7 @@ public class Week5 {
         Bendoy.display();
 
         Eugenio.display();
-
+         
 
 
 
@@ -42,7 +42,7 @@ public class Week5 {
         Tabon.display();
         Talidong.display();
         Villaos.display();
-
+        Banaag.display();
     
 
 
