@@ -182,7 +182,7 @@ public class week5 {
         Bendoy.display();
 
         Eugenio.display();
-
+         
 
 
 
@@ -208,7 +208,7 @@ public class week5 {
         Tabon.display();
         Talidong.display();
         Villaos.display();
-
+        Banaag.display();
     
 
         Gabronino.display(); // Add your method call here
