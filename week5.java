@@ -1,12 +1,12 @@
 
-public class Week5 {
+public class week5 {
     public static void main(String[] args) {
         System.out.println("Collaborative Java Project\n");
-
-
+       
+        // Call each student's method
+        // More students will add their method calls here...
+        Baldo.display();
         Tapia.display();
-
-        // Call each student's method in alphabetical order
         AgpoonGregpsalms.display();
         AgpoonGregsamuel.display();
         Alabado.display();
