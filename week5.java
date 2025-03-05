@@ -42,7 +42,7 @@ public class Week5 {
         Tabon.display();
         Talidong.display();
         Villaos.display();
-
+        Tado.display();
     
 
 
