@@ -13,6 +13,7 @@ public class Week5 {
         Banaag.display();
         Bendoy.display();
         Berte.display();
+        Bondoc.display();
         Borja.display();
         Credo.display();
         Costanilla.display();
