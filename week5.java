@@ -45,5 +45,6 @@ public class Week5 {
         Tado.display();
         Villaos.display();
         Villon.display();
+        DeVera.display();
     }
 }
