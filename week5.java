@@ -31,6 +31,7 @@ public class Week5 {
         Miranda.display();
         Pajanustan.display();
         Panis.display();
+        Panganiban.dispaly();
         Pascualado.display();
         Pianar.display();
         Regoroso.display();
