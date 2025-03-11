@@ -53,7 +53,7 @@ public class Calculator {
       }
 
 	
-	//Group 4: Division (Members: Balais, Tabon, Amar, Pajanustan, Garcia, Banaag, Ringor, Berte)
+	//Group 4: Division (Members: Balais, Tabon, Amar, Pajanustan, Garcia, Banaag, Ringor, Berte, Garcia, Alman)
 	public static int divide(int a, int b){
 		return a / b;
 	}
