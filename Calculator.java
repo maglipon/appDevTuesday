@@ -34,6 +34,15 @@ public class Calculator {
     }
 
 
+    // Other groups will add their methods here
+    // Group 6: square(int a) – returns the square of a number (Members: Artiaga, Mata, Mago, Respondo, Maglipon, De Belen, Geneblaza, Bondoc, Puzon, Tomenio, Duran)
+
+    public static int square(int a) {
+        return a * a;
+    }
+
+
+
 
     // Group 1: Addition (Members: Panis,Alabado,Bendoy,Dichoso,Mangui,Sayas,Serrano,Tabilog,Talidong,Villaos)
 
