@@ -13,6 +13,11 @@ public class Calculator {
 
    
 
+   Group 3 : Product ( Echon, Gabronino, Acal, Villon, Ladera, Emnil, Debuton, Manuel, Tado, Carino)
+ public static int multiply (int a * int b) {
+   return a * b;
+
+
 
     // Group 1: Addition (Members: Panis, Alabado, Bendoy, Dichoso, Mangui, Sayas, Serrano, Tabilog, Talidong, Villaos)
 
@@ -69,6 +74,7 @@ public class Calculator {
 	public static int divide(int a, int b){
 		return a / b;
 	}
+
 
 
 
