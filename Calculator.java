@@ -8,6 +8,10 @@ public class Calculator {
         return a + b;
     }
 
+     // Group 7: Cube (Members: Tapia, De Vera, Delig, Epo, Eugenio, Pascualado, Saulong, Tan, Barcancel, Trampe)
+    public static int cube(int a) {
+        return a * a * a;
+    }
 
     // Group 6: square(int a) – returns the square of a number (Members: Artiaga, Mata, Mago, Respondo, Maglipon, De Belen, Geneblaza, Bondoc, Puzon, Tomenio, Duran)
     public static int square(int a) {
