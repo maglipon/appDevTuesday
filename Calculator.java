@@ -7,10 +7,14 @@ Group 3 : Product ( Echon, Gabronino, Acal, Villon, Ladera, Emnil, Debuton, Manu
 public class Calculator {
 
    
+
+    // Group 1: Addition (Members: Panis, Alabado, Bendoy, Dichoso, Mangui, Sayas, Serrano, Tabilog, Talidong, Villaos)
+
     // Group 1: Addition (Members: Panis,Alabado,Bendoy,Dichoso,Mangui,Sayas,Serrano,Tabilog,Talidong,Villaos)
 
 
     // Group 1: Addition (Members: Panis, Alabado, Bendoy, Dichoso, Mangui, Sayas, Serrano, Tabilog, Talidong, Villaos)
+
 
     public static int add(int a, int b) {
         return a + b;
