@@ -61,5 +61,9 @@ public class Week5 {
 
         Villon.display();
 
+        DeVera.display();
+
+
+
     }
 }
