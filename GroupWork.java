@@ -10,6 +10,8 @@ public class GroupWork   {
        
         // Calling methods from Calculator.java
         System.out.println("Sum: " + Calculator.add(num1, num2));  // Group 1's method
+
+        System.out.println("Cube: " + Calculator.cube(num1));  // Group 7's method
         
 
        System.out.println("Are numbers equal? " + Calculator.isEqual(num1, num2));  // Group 10's method

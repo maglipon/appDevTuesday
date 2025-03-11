@@ -6,6 +6,10 @@ public class Calculator {
         return a + b;
     }
 
+     // Group 7: Cube (Members: Tapia, De Vera, Delig, Epo, Eugenio, Pascualado, Saulong, Tan, Barcancel, Trampe)
+    public static int cube(int a) {
+        return a * a * a;
+    }
 
     // Other groups will add their methods here
 
