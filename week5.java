@@ -11,19 +11,25 @@ public class Week5 {
         Artiaga.display();
         Balais.display();
         Banaag.display();
+        Barcancel.display();
         Bendoy.display();
         Berte.display();
         Borja.display();
         Credo.display();
         Costanilla.display();
         DeJesus.display();
+
         Debelen.display();
+
+        Debuton.display();
+
         Dichoso.display();
         Dizon.display();
         Echon.display();
         Eugenio.display();
         Garcia.display();
         Gabronino.display();
+        Geneblaza.display();
         Jesalva.display();
         Lamac.display();
         Mago.display();
@@ -44,7 +50,15 @@ public class Week5 {
         Talidong.display();
         Tapia.display();
         Tado.display();
+        Trampe.display();
         Villaos.display();
+
+        Manuel.display();
+    
+
+
+
         Villon.display();
+
     }
 }
