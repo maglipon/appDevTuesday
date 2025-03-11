@@ -3,6 +3,9 @@
 public class Calculator {
    
 
+    // Group 8: Addition (Members: Piañar, Arevalo, Oblepias, GregAgpoon/SamAgpoon, Credo, Baldo, Adriano, Regoroso)
+
+
     //  Group 1: Addition (Members: Panis, Alabado, Bendoy, Dichoso, Mangui, Sayas, Serrano, Tabilog, Talidong, Villaos) 
 
 
@@ -28,6 +31,7 @@ public class Calculator {
 
 
     // Group 1: Addition (Members: Panis, Alabado, Bendoy, Dichoso, Mangui, Sayas, Serrano, Tabilog, Talidong, Villaos)
+
 
 
 
