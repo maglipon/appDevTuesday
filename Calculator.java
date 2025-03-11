@@ -16,10 +16,14 @@ public class Calculator {
 
     // Group 1: Addition (Members: Panis, Alabado, Bendoy, Dichoso, Mangui, Sayas, Serrano, Tabilog, Talidong, Villaos)
 
+
+    // Group 1: Addition (Members: Panis, Alabado, Bendoy, Dichoso, Mangui, Sayas, Serrano, Tabilog, Talidong, Villaos)
+
     // Group 1: Addition (Members: Panis,Alabado,Bendoy,Dichoso,Mangui,Sayas,Serrano,Tabilog,Talidong,Villaos)
 
 
     // Group 1: Addition (Members: Panis, Alabado, Bendoy, Dichoso, Mangui, Sayas, Serrano, Tabilog, Talidong, Villaos)
+
 
 
 
