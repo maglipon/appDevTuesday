@@ -8,11 +8,19 @@ public class Calculator {
         return a + b;
     }
 
+
     // Group 6: square(int a) – returns the square of a number (Members: Artiaga, Mata, Mago, Respondo, Maglipon, De Belen, Geneblaza, Bondoc, Puzon, Tomenio, Duran)
     public static int square(int a) {
         return a * a;
     }
   
+
+    // Group 2: Subtract (Members: Lamac, Baluyos, Glipo, Costanilla, Flores, Panganiban, Pagtakhan, Jacinto)  
+    public static int subtract(int a, int b) {  
+    return a - b;  
+      }
+	
+
     //Group 4: Division (Members: Balais, Tabon, Amar, Pajanustan, Garcia, Banaag, Ringor, Berte)
      public static int divide(int a, int b){
 	return a / b;
