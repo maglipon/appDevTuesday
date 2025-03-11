@@ -44,6 +44,13 @@ public class Week5 {
         Tapia.display();
         Tado.display();
         Villaos.display();
+
+        Manuel.display();
+    
+
+
+
         Villon.display();
+
     }
 }
