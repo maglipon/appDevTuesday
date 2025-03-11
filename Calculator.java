@@ -1,21 +1,12 @@
 
-//Group 3 : Product ( Echon, Gabronino, Acal, Villon, Ladera, Emnil, Debuton, Manuel, Tado, Carino)
- // public static int multiply (int a * int b) {
-  //      return a * b;
 
-
-Group 3 : Product ( Echon, Gabronino, Acal, Villon, Ladera, Emnil, Debuton, Manuel, Tado, Carino)
- // public static int multiply (int a * int b) {
-  //      return a * b;
 
 // Calculator.java
 public class Calculator {
 
    
 
-  // Group 3 : Product ( Echon, Gabronino, Acal, Villon, Ladera, Emnil, Debuton, Manuel, Tado, Carino)
- public static int multiply (int a * int b) {
-   return a * b;
+
 
 
 
@@ -42,7 +33,14 @@ public class Calculator {
     public static int add(int a, int b) {
         return a + b;
     }
+//Group 3 : Product ( Echon, Gabronino, Acal, Villon, Ladera, Emnil, Debuton, Manuel, Tado, Carino)
 
+//Group 3 : Product ( Echon, Gabronino, Acal, Villon, Ladera, Emnil, Debuton, Manuel, Tado, Carino)
+	
+//Group 3 : Product ( Echon, Gabronino, Acal, Villon, Ladera, Emnil, Debuton, Manuel, Tado, Carino)
+	
+ public static int multiply (int a * int b) {
+   return a * b;
 
     // Other groups will add their methods here
 
