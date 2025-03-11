@@ -19,6 +19,8 @@ public class Groupwork {
 
         System.out.println("Product  " + (num1 * num2));  // Group 3's method
         
+        
+        System.out.println("Quotient: " + Calculator.divide(num1, num2));  // Group 4 Method
 
 
 
