@@ -28,6 +28,7 @@ public class Week5 {
         Dizon.display();
         Echon.display();
         Eugenio.display();
+        Flores.display();
         Garcia.display();
         Gabronino.display();
         Geneblaza.display();
