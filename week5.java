@@ -14,6 +14,7 @@ public class Week5 {
         Barcancel.display();
         Bendoy.display();
         Berte.display();
+        Bondoc.display();
         Borja.display();
         Credo.display();
         Costanilla.display();
