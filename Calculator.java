@@ -9,7 +9,7 @@ public class Calculator {
 
     // Other groups will add their methods here
 
-   // Group 5: Modulus (Members: Miranda, Abagat, Garnica, Cababao, De Jesus, Latagan, Sudicta, Borja, Fernandez)
+   // // Group 4: Division (Members: Balais, Tabon, Amar, Pajanustan, Garcia, Banaag, Ringor, Berte)
     modulus(int a, int b) {
    return a % b;
       }
