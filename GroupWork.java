@@ -11,9 +11,13 @@ public class GroupWork   {
         // Calling methods from Calculator.java
         System.out.println("Sum: " + Calculator.add(num1, num2));  // Group 1's method
 
+        System.out.println("Max: " + max(num1, num2)); // Group 8's method
+
+
 
         System.out.println("Cube: " + Calculator.cube(num1));  // Group 7's method
         
+
 
 
         System.out.println("The square of " + num1 + " is: " + Calculator.square(num1)); // Group 6's method

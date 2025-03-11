@@ -8,6 +8,13 @@ public class Calculator {
         return a + b;
     }
 
+
+     // Group 8: max (Members: Pianar, Arevalo, Oblepias, GregAgpoon, SamAgpoon, Credo, Baldo, Adriano, Regoroso)
+     public static int max(int a, int b) {
+        // Returns the larger number
+        return (a > b) ? a : b; 
+    }
+
      // Group 7: Cube (Members: Tapia, De Vera, Delig, Epo, Eugenio, Pascualado, Saulong, Tan, Barcancel, Trampe)
     public static int cube(int a) {
         return a * a * a;
@@ -30,6 +37,7 @@ public class Calculator {
 	return a / b;
 	}
 
+
      // Group 7: Cube (Members: Tapia, Eugenio, Barcancel, Trampe, Pascualado, Saulong, Tan, Delig, Epo, De Vera)
      public static  int cube(int a) {
            return a * a * a;
@@ -45,5 +53,8 @@ public class Calculator {
         return a == b;
     }
   
+}
+
+    
 }
 
