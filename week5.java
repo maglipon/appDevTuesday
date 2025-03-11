@@ -40,6 +40,7 @@ public class Week5 {
         Pagtakhan.display();
         Pajanustan.display();
         Panis.display();
+        Panganiban.dispaly();
         Pascualado.display();
         Pianar.display();
         Regoroso.display();
