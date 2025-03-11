@@ -6,6 +6,11 @@ public class Calculator {
         return a + b;
     }
 
+     // Group 8: max (Members: Pianar, Arevalo, Oblepias, GregAgpoon, SamAgpoon, Credo, Baldo, Adriano, Regoroso)
+     public static int max(int a, int b) {
+        // Returns the larger number
+        return (a > b) ? a : b; 
+    }
 
     // Other groups will add their methods here
 
