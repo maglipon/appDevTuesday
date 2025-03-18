@@ -1,4 +1,4 @@
-// Calculator.java
+
 public class Calculator {
    
     // Group 1: Addition (Members: John, Sarah, Alex)
@@ -68,4 +68,5 @@ public class Calculator {
 
     
 }
+
 
